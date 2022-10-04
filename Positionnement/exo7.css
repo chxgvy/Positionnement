@@ -1,0 +1,50 @@
+#rectangleblanc {
+    background-color: white;
+    width: 500px;
+    height: 455px;
+    padding: 30px;
+}
+
+#rectangle2{
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    float: left;
+}
+
+#rectangle3{
+    background-color:blue;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    float: left;
+}
+
+#rectangle1{
+    background-color: rgb(170, 170, 170);
+    width: 150px;
+    height: 150px;
+    position: relative;
+    float: right;
+    top: 300px;
+}
+
+
+#rectangle4{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    float: left;
+    top: 150px;
+    left: 200px;
+}
+
+#rectangle5{
+    background-color: orange;
+    width: 500px;
+    height: 150px;
+    position: relative;
+    top: 150px;
+}

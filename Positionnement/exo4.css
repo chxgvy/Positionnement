@@ -1,0 +1,33 @@
+#rectangle4 {
+    background-color: lightblue;
+    width: 350px;
+    height: 50px;
+    position: absolute;
+}
+
+#rectangle1 {
+    background-color: green;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    top: 80px;
+    left: 130px;
+}
+
+#rectangle2 {
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 150px;
+    top : 100px;
+}
+
+#rectangle3 {
+    background-color: orange;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 180px;
+    left: 230px;
+}

@@ -1,0 +1,46 @@
+#rectangle1{
+    background-color: lightblue;
+    width: 330px;
+    height: 330px;
+    padding: 30px;
+    position: static;
+}
+
+#rectangle2{
+    background-color: green;
+    box-sizing: border-box;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+#rectangle3{
+    background-color:blue;
+    box-sizing: border-box;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 170px;
+    bottom: 180px;
+
+}
+
+#rectangle4{
+    background-color: yellow;
+    box-sizing: border-box;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    left: 170px;
+    bottom: 150px;
+}
+
+#rectangle5{
+    background-color: orange;
+    box-sizing: border-box;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    bottom: 300px;  
+}
